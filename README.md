@@ -1,6 +1,6 @@
 # RSA_CRYPTO
 
-This is my project of TIPE(Travail d'initiative personnelle encadré), it's a windows desktop application for files encryption based on RSA algorithm.
+This is my project of TIPE(Travail d'initiative personnelle encadré), it's a windows desktop application to encrypt every sort of files and it's based on RSA algorithm.
 
 ## Folder structure
 use tree command in the **powershell** to see the folder structure.
