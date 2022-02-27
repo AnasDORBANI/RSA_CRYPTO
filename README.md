@@ -6,8 +6,9 @@ This is my project of TIPE(Travail d'initiative personnelle encadré), it's a wi
 use tree command in the **powershell** to see the folder structure.
 
 ```powershell
-> tree
-
+tree
+```
+```powershell
 .
 ├── exe_file
 │   └── RSA Crypto_V4.0.1_installer.exe
@@ -24,11 +25,11 @@ use tree command in the **powershell** to see the folder structure.
 
 go to the **exe_file** folder
 ```powershell
-> cd .\exe_file\
+cd .\exe_file\
 ```
 then install the **RSA Crypto_V4.0.1_installer.exe** file
 ```powershell
-> & '.\RSA Crypto_V4.0.1_installer.exe'
+& '.\RSA Crypto_V4.0.1_installer.exe'
 ```
 
 * **Using python file**
@@ -36,7 +37,7 @@ then install the **RSA Crypto_V4.0.1_installer.exe** file
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ttkthemes in the **powershell**.
 
 ```powershell
-> pip install ttkthemes
+pip install ttkthemes
 ```
 
 ## Usage
@@ -51,7 +52,7 @@ Run the main file in your desktop which has this icon.
 Run the **RSA_V4.0.1.py** python file to launch the interface.
 
 ```powershell
-> python .\RSA_V4.0.1.py
+python .\RSA_V4.0.1.py
 ```
 
 ## Contributing
