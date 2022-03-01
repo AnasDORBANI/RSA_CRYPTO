@@ -32,7 +32,7 @@ use tree command in the **powershell** to see the folder structure.
 ```powershell
 tree
 ```
-```powershell
+```
 .
 ├── exe_file
 │   └── RSA Crypto_V4.0.1_installer.exe
